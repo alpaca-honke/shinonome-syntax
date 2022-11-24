@@ -101,7 +101,7 @@ PATHが通っていればどのフォルダにいても実行可能。
 2. ```Set-Location [パス]```でshino-syn.ps1があるフォルダに移動  
 3. ```Set-ExecutionPolicy RemoteSigned```を実行、確認画面が出たらyes  
 4. ```.\shino-syn.ps1 [文字列]```で実行  
-5. **```Set-ExecutionPolicy Restricted```の実行を忘れない```  
+5. **```Set-ExecutionPolicy Restricted```の実行を忘れない**  
 #### バッチファイルから実行する場合  
 1. コマンドプロンプトを開く  
 2. ```shino-syn_ps1.bat [文字列]```を実行  
