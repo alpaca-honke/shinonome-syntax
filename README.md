@@ -9,6 +9,7 @@
 <details>
 <summary>クリックして展開</summary>
 ## 使い方  
+
 ### UNIX系OS  
 ダウンロードして実行権限を付与して実行。
 install-sh.shでshino-syn(シェルスクリプト)が、install-ps1.shでshino-syn.ps1が```/usr/local/bin```に実行権限付きでコピーされます。  
