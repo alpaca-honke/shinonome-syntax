@@ -96,6 +96,7 @@ sudo chmod 755 shino-syn.ps1
 PATHが通っていればどのフォルダにいても実行可能。  
 
 ### shino-syn.ps1  
+**Windowsで動作確認を行った際，文字コードの違いで，PowerShellが正常に動作しませんでした．後ほど修正予定です**．
 #### Powershellから実行する場合  
 1. PowerShellを管理者権限で実行  
 2. ```Set-Location [パス]```でshino-syn.ps1があるフォルダに移動  
@@ -111,6 +112,6 @@ PATH通っていればどこで実行しても可
 # その他  
 ## 注意事項  
 Linux環境で動作確認を行いましたが、確実に動作することは保証しません。自己責任で実行してください。  
-なお、Windous環境では未確認です。後で確認します。  
+Windowsで動作確認を行った際，文字コードの違いで，PowerShellが正常に動作しませんでした．後ほど修正予定です．
 
 もし不具合があった場合、プルリクエストやIssue登録をしていただくか、[Twitter](https://twitter.com/alpaca_honke)に記載の方法でご連絡よろしくおねがいします。  
