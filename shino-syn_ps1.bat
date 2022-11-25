@@ -1,4 +1,4 @@
 @echo off
-powershell -NoProfile -ExecutionPolocy Unrestricted .\shino-syn.ps1 %1
+powershell -NoProfile -ExecutionPolicy Unrestricted .\shino-syn.ps1 %1
 pause > nul
 exit
